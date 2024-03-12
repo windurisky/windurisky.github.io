@@ -36,7 +36,7 @@ _Github CodeSpace Payment Tier_
 
 ## How To Use
 
-#### Using a ready-to-use template
+### Using a ready-to-use template
 
 GitHub is quite thoughtful, we can simply head out to [github.com/codespaces/template](https://github.com/codespaces/template) and there are already ready-to-use templates a single click away.
 
@@ -50,11 +50,11 @@ _GitHub Codespace - Ruby on Rails_
 
 *Voila!* Ruby on Rails app is ready to develop and run in your browser!
 
-#### Using a customized template
+### Using a customized template
 
 If you are like me, you probably don’t have the need to use a full-fledged app and tools running, or maybe just have the itches to mess around with the configuration. Then, we can also build our own codespace template. Check my template here: [github.com/windurisky/ruby-codespace-template](https://github.com/windurisky/ruby-codespace-template), you can run it
 
-###### Devcontainer
+#### Devcontainer
 
 Simply initiate a new github repo, and then create a `.devcontainer` folder, this folder will be the primary place to setup all the codespace container-related configs.
 
