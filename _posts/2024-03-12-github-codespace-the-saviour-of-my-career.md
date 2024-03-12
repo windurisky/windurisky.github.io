@@ -38,12 +38,12 @@ _Github CodeSpace Payment Tier_
 
 #### Using a ready-to-use template
 
-GitHub is quite thoughtful, we can simply head out to [github.com/codespaces/template](https://github.com/codespaces/template) and there are already some templates are ready to launch by a single click away.
+GitHub is quite thoughtful, we can simply head out to [github.com/codespaces/template](https://github.com/codespaces/template) and there are already ready-to-use templates a single click away.
 
 ![Desktop View](github-codespace-template.png)
 _GitHub Codespace Template_
 
-By clicking the <kbd>Use this template</kbd> on your chosen template, it will startup the containers shortly. In this example, I chose the `Ruby on Rails` template.
+By clicking the <kbd>Use this template</kbd> on chosen template, it will startup the containers shortly. In this example, I chose the `Ruby on Rails` template as example.
 
 ![Desktop View](rails-codespace.jpeg)
 _GitHub Codespace - Ruby on Rails_
