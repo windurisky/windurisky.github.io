@@ -38,7 +38,7 @@ _Github CodeSpace Payment Tier_
 
 #### Using a ready-to-use template
 
-GitHub is quite thoughtful, we can simply head out to [github.com/codespaces/template](http://github.com/codespaces/template) and there are already some templates are ready to launch by a single click away.
+GitHub is quite thoughtful, we can simply head out to [github.com/codespaces/template](https://github.com/codespaces/template) and there are already some templates are ready to launch by a single click away.
 
 ![Desktop View](github-codespace-template.png)
 _GitHub Codespace Template_
