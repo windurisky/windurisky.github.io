@@ -52,13 +52,13 @@ _GitHub Codespace - Ruby on Rails_
 
 #### Using a customized template
 
-If you are like me, you probably don’t have the need to use a full-fledged app and tools running, or maybe just have the itches to mess around with the configuration. Then, we can also build our own codespace template. Check my template here: https://github.com/windurisky/ruby-codespace-template, you can run it
+If you are like me, you probably don’t have the need to use a full-fledged app and tools running, or maybe just have the itches to mess around with the configuration. Then, we can also build our own codespace template. Check my template here: [github.com/windurisky/ruby-codespace-template](https://github.com/windurisky/ruby-codespace-template), you can run it
 
 ###### Devcontainer
 
 Simply initiate a new github repo, and then create a `.devcontainer` folder, this folder will be the primary place to setup all the codespace container-related configs.
 
-For example in my ruby codespace template, I added two files to the folder:
+For example in my ruby codespace template, I added two files to that folder:
 
 - `Dockerfile`
 
